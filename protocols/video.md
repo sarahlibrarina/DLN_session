@@ -11,3 +11,7 @@ Description of how to do the lab.
 1. piece 3
 
 ## What to do
+
+## Results
+
+After doing this you should get similar results to [this](\results).
