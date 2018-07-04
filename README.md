@@ -69,6 +69,6 @@ end
 ```
 
 ## Images
-![Signature](Lamb_signature.png)
+
 
  <img src="Lamb_signature.png" width=100/>
